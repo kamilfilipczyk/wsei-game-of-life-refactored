@@ -3,7 +3,7 @@
 ## 1. Clone the Repository:
 ```python
 git clone https://github.com/kamilfilipczyk/wsei-game-of-life-refactored.git
-cd your-repository-name
+cd wsei-game-of-life-refactored
 ```
 
 ## 2. Set Up Dependencies:
