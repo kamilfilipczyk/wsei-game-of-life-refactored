@@ -2,7 +2,7 @@
 
 ## 1. Clone the Repository:
 ```python
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/kamilfilipczyk/wsei-game-of-life-refactored.git
 cd your-repository-name
 ```
 
